@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/markee-android.iml" filepath="$PROJECT_DIR$/markee-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wanderingberry/wanderingberry.iml" filepath="$PROJECT_DIR$/wanderingberry/wanderingberry.iml" />
     </modules>
   </component>
 </project>
